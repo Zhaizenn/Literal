@@ -1,0 +1,24 @@
+1. Numeric Literals
+2. String Literals
+3. Boolean Literals
+4. Special Literals
+
+Numeric Literals
+Numeric literals can belong to 3 different
+numerical types:
+• Integer,
+• Float, and
+• Complex.
+
+String Literals
+• It is a sequence of characters surrounded by
+quotes, either single, double, or triple quotes for
+a string.
+• A character literal is a single character
+surrounded by single or double quotes.
+• 'hello' is the same as "hello"
+
+
+Boolean Literals
+• It can have any of the two values: True or
+False.
